@@ -1,0 +1,1 @@
+Criando meu primeiro projeto, como aprendizado, de Node (e um pouco de git).
